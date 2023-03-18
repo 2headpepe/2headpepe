@@ -1,15 +1,44 @@
+![](3339086.jpg)
 
-<!--
-**2headpepe/2headpepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi 👋 My name is Ivan
+=====================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software trainee
+----------------
+
+
+I'm studying programming at St. Petersburg State University and I dream of becoming a cool specialist. In my free time I like to learn new things and play basketball.
+
+* 🌍  I'm based in Saint-Petersburg
+* ✉️  You can contact me at [https://t.me/pepe2head](mailto:https://t.me/pepe2head)
+* 🧠  I'm learning Flutter/dart
+* 🤝  I'm open to collaborating on interesting projects
+
+### Skills
+
+
+<p align="left">
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left">
+<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="32" height="32" /></a>
+<a href="https://vk.com/frightened_nigga" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" width="32" height="32" /></a>
+<a href="https://www.github.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" height="32" /></a>
+<a href="http://www.instagram.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2headpepe&layout=compact&hide=Batchfile&theme=dark)](https://github.com/2headpepe)
+
+
+![](ig5dff61vn451.png)
+
