@@ -36,11 +36,21 @@ I'm studying programming at St. Petersburg State University and I dream of becom
 <a href="http://www.instagram.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+
 <p align="left">
-<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2headpepe&layout=compact&hide=Batchfile&theme=gradient_purple_dark" width="800" height="100" /></a>
-<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://github.r2v.ch/codewars?user=2headpepe&theme=gradient_light" width="800" height="200" /></a>
-<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://leetcard.jacoblin.cool/2headpepe?theme=unicorn" width="800" height="200" /></a>
-<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://leetcard.jacoblin.cool/2headpepe?theme=unicorn" width="800" height="200" /></a>
+<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2headpepe&layout=compact&hide=Batchfile&theme=gradient_purple_dark" width="400" height="200" /></a>
+<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://github.r2v.ch/codewars?user=2headpepe&theme=gradient_light" width="400" height="200" /></a>
+<a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://leetcard.jacoblin.cool/2headpepe?theme=unicorn" width="400" height="200" /></a>
+
 </p>
 
 ![](ig5dff61vn451.png)
+
+
+
+
+
+
+
+
