@@ -15,6 +15,8 @@ I'm studying programming at St. Petersburg State University and I dream of becom
 * 🧠  I'm learning Flutter/dart
 * 🤝  I'm open to collaborating on interesting projects
 
+![](ig5dff61vn451.png)
+
 ### Skills
 
 
@@ -42,13 +44,3 @@ I'm studying programming at St. Petersburg State University and I dream of becom
 <a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://github.r2v.ch/codewars?user=2headpepe&theme=gradient_light" width="400" height="200" /></a>
 <a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://leetcard.jacoblin.cool/2headpepe?theme=unicorn" width="400" height="200" /></a
 </p>
-
-![](ig5dff61vn451.png)
-
-
-
-
-
-
-
-
