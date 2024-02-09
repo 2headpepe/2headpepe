@@ -43,7 +43,7 @@ I'm studying programming at St. Petersburg State University and I dream of becom
 <a href="https://www.github.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2headpepe&layout=compact&hide=Batchfile,Makefile&theme=gradient_purple_dark" width="300" height="200" /></a>
 
 <p align="left">
-<embed src="https://wakatime.com/share/@2headpepe/6fbfd0c5-9403-4003-adc2-dd62513ac32c.svg"></embed>
+<img src="https://wakatime.com/share/@2headpepe/6fbfd0c5-9403-4003-adc2-dd62513ac32c.svg"></img>
 <a href="https://www.github.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://github.r2v.ch/codewars?user=2headpepe&theme=gradient_light" width="400" height="200" /></a>
 <a href="https://www.github.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://leetcard.jacoblin.cool/2headpepe?theme=unicorn" width="400" height="200" /></a>
 </p>
