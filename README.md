@@ -36,7 +36,7 @@ I'm studying programming at St. Petersburg State University and I dream of becom
 <a href="https://t.me/pepe2head" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="32" height="32" /></a>
 <a href="https://vk.com/frightened_nigga" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" width="32" height="32" /></a>
 <a href="https://www.github.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" height="32" /></a>
-<a href="http://www.instagram.com/2headpepe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+</p>
 
 ### Badges
 
