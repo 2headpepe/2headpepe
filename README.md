@@ -7,7 +7,7 @@ I'm a frontend developer with 3.5 years of experience at major Russian tech comp
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [Telegram @pepe2head](https://t.me/pepe2head)
 * 💼  Working at VK
-* 🎓  Master's student at Tomsk State University (Space Geodesy)
+* 🎓  Master's student at Tomsk State University
 * 🧠  Specializing in React (TypeScript)
 * 🤝  Open to collaborating on interesting projects
 
