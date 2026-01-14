@@ -2,13 +2,13 @@
 
 ## Frontend Developer
 
-I'm a frontend developer with 3.5 years of experience at major Russian tech companies (Yandex, Dzen, VK), working on high-load products with 30M+ DAU. Currently pursuing a master's degree at Tomsk State University while developing production-ready web applications.
+I'm a frontend developer with 3.5 years of experience at major Russian tech companies (Yandex, Dzen, VK), working on high-load products with 30M+ DAU.
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [Telegram @pepe2head](https://t.me/pepe2head)
-* 💼  Working at VK/Dzen on monetization & user retention features
+* 💼  Working at VK
 * 🎓  Master's student at Tomsk State University (Space Geodesy)
-* 🧠  Specializing in React, TypeScript, MobX
+* 🧠  Specializing in React (TypeScript)
 * 🤝  Open to collaborating on interesting projects
 
 ### Skills
@@ -24,15 +24,6 @@ I'm a frontend developer with 3.5 years of experience at major Russian tech comp
 </p>
 
 **Tech Stack:** React · TypeScript · MobX · Redux · Next.js · Node.js · REST API · WebSocket · Jest · Playwright · Hermione · Docker · Webpack
-
-### Experience Highlights
-
-- 🚀 Launched **Zen Pro subscription** from scratch (30M+ DAU audience)
-- 📈 Developed features that improved DAU by +0.32% and engagement time by +0.73%
-- 🔄 Migrated VK legacy systems from PHP to React SPA
-- 👥 Mentored interns and conducted code reviews
-- ⚡ Optimized Web Vitals (LCP, CLS, FID) at Yandex SERP
-- 🎯 Led full-cycle development: API design → production deployment
 
 ### Socials
 
